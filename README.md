@@ -11,4 +11,6 @@ npm start
 ``` 
 
 Make sure you have redis-server installed and running.
-Read more about [Redis server](redis.io) and its tweaking or [try redis online](try.redis.io).
+Read more about [Redis server](https://redis.io) and its 
+tweaking or 
+[try redis online](https://try.redis.io).
