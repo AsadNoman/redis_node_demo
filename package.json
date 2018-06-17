@@ -1,0 +1,20 @@
+{
+  "name": "redis_node_demo",
+  "version": "1.0.0",
+  "description": "A nodeJS app talking to redis-server",
+  "main": "app.js",
+  "dependencies": {
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "node",
+    "redis",
+    "redis-server"
+  ],
+  "author": "Asad Noman",
+  "license": "MIT"
+}
